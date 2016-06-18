@@ -4,6 +4,5 @@
 # Just a test commit!
 
 options:
-  beer: becks
   lifetime: 25 # minecraft days
 
